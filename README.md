@@ -1,4 +1,4 @@
-[![GitHub Header](https://raw.githubusercontent.com/RaushanSir/RaushanSir/main/images/header.png)](https://your-portfolio.com)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
 <h1 align="center">Hi 👋, I'm Raushan Arya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/736x/9f/7f/8a/9f7f8a109153a2ce0d1dc69cda26ffa9.jpg"/>
