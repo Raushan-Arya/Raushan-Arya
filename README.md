@@ -1,4 +1,4 @@
-[![GitHub Header](original-50d3ae73eb06aa464eee78018d0555bf)](https://your-portfolio.com)
+[![My Banner](https://raw.githubusercontent.com/RaushanSir/Portfolio/main/images/banner.png)](https://yourwebsite.com)
 <h1 align="center">Hi 👋, I'm Raushan Arya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/736x/9f/7f/8a/9f7f8a109153a2ce0d1dc69cda26ffa9.jpg"/>
